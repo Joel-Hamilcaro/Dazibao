@@ -1,7 +1,9 @@
 # Projet de Programmation Réseau   
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>    
+
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>     
+
 *Projet réalisé en binôme dans le cadre du cours "Programmation Réseaux"*   
-**Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**
+**Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**   
 
 Le but de se projet était de programmer un protocole réseau pour l'implémentation d'un "mur" de réseau social. Le protocole se base sur un algorithme non-fiable d'inondation, inspiré du protocole HNCP de Markus Stenberg. L'énoncé de ce projet précisait toutes les contraintes précises à respecter. Un serveur initial auquel notre programme devait se connecter était fourni par notre enseignant. Désormais, l'énoncé du projet et ce serveur initial ne sont plus accessibles.
 
